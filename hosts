@@ -22,3 +22,4 @@ ff02::3 ip6-allhosts
 # Custom host records are listed here.
 
 0.0.0.0 download.visualstudio.microsoft.com
+0.0.0.0 ardownload3.adobe.com
